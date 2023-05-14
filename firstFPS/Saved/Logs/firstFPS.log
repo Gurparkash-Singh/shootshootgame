@@ -1126,3 +1126,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.14-04.39.24:763][737]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.05.14-04.39.33:609][710]Cmd: TRANSACTION UNDO
 [2023.05.14-04.39.33:610][710]LogEditorTransaction: Undo Move Elements
+[2023.05.14-04.40.35:282][924]LogDerivedDataCache: C:/Users/noura/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.113 and deleted 0 files with total size 0 MiB. Scanned 3354 files in 3324 folders with total size 188 MiB.
