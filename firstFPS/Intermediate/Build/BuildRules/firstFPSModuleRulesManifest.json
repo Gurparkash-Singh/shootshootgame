@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\shootshootgame\\firstFPS\\Source\\firstFPS\\firstFPS.Build.cs",
+		"D:\\shootshootgame\\firstFPS\\Source\\firstFPS.Target.cs",
+		"D:\\shootshootgame\\firstFPS\\Source\\firstFPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

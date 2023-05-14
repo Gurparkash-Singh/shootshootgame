@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "firstFPS",
+			"Path": "D:\\shootshootgame\\firstFPS\\Source\\firstFPS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "firstFPSEditor",
+			"Path": "D:\\shootshootgame\\firstFPS\\Source\\firstFPSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

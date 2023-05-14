@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfpsprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\firstfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\development\\firstfps\\definitions.firstfps.h",
+            "d:\\shootshootgame\\firstfps\\source\\firstfps\\firstfpsprojectile.h",
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfpsprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

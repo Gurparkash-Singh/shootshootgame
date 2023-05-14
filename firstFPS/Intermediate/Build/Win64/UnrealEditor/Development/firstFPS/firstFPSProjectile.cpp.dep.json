@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\shootshootgame\\firstfps\\source\\firstfps\\firstfpsprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\firstfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\development\\firstfps\\definitions.firstfps.h",
+            "d:\\shootshootgame\\firstfps\\source\\firstfps\\firstfpsprojectile.h",
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfpsprojectile.generated.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\projectilemovementcomponent.generated.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

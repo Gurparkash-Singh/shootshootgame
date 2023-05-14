@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfpsgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\firstfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\development\\firstfps\\definitions.firstfps.h",
+            "d:\\shootshootgame\\firstfps\\source\\firstfps\\firstfpsgamemode.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "g:\\games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "g:\\games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfpsgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

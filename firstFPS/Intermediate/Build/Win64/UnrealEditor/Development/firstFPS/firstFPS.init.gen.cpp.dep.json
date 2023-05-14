@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\inc\\firstfps\\uht\\firstfps.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\firstfpseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\shootshootgame\\firstfps\\intermediate\\build\\win64\\unrealeditor\\development\\firstfps\\definitions.firstfps.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
