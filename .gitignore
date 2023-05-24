@@ -52,6 +52,9 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
+#metahumansa
+Content/MetaHumans
+
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
 Build/*/**
